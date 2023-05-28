@@ -26,3 +26,6 @@ By working on this project, you will gain experience and understanding in the fo
 - Enter the recipient's email address.
 - Click the "Upload and Email" button.
 - The PDF file will be secured with the password, emailed to the recipient, and a success message will be displayed.
+
+
+![Secure PDF Uploader](https://i.imgur.com/T3yCnVZ.png)
