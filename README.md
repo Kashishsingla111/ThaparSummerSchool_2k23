@@ -21,8 +21,8 @@ By working on this project, you will gain experience and understanding in the fo
 
 ##Usage
 
--Upload a PDF file using the file upload form.
--Enter a password for the PDF file.
--Enter the recipient's email address.
--Click the "Upload and Email" button.
--The PDF file will be secured with the password, emailed to the recipient, and a success message will be displayed.
+- Upload a PDF file using the file upload form.
+- Enter a password for the PDF file.
+- Enter the recipient's email address.
+- Click the "Upload and Email" button.
+- The PDF file will be secured with the password, emailed to the recipient, and a success message will be displayed.
