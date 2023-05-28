@@ -19,7 +19,7 @@ By working on this project, you will gain experience and understanding in the fo
 - Adding password protection to PDF files.
 - Sending emails using Gmail SMTP in Python.
 
-##Usage
+## Usage
 
 - Upload a PDF file using the file upload form.
 - Enter a password for the PDF file.
