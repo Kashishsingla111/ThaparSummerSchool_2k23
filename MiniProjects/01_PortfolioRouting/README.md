@@ -17,12 +17,14 @@ URL routing in Django involves mapping URLs to appropriate views or functions wi
 ## Defining URLs
 To define URLs in Django, you need to create a urls.py file within your app directory. This file acts as a router, mapping URLs to views or functions. Here's an example of a basic urls.py file:
 
-` from django.urls import path  <br>
-from . import views <br>
+```
+from django.urls import path  
+from . import views 
 urlpatterns = [ 
     path('home/', views.home_view, name='home'),
     path('about/', views.about_view, name='about'),
-] ` <br>
+]
+```
 
 In the example above, we import the necessary modules (path and views) and define a list called urlpatterns. Each URL pattern is defined using the path() function, which takes three parameters: the URL pattern as a string, the corresponding view or function, and an optional name for the URL pattern.
 
