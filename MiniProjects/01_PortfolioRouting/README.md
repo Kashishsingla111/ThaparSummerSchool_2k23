@@ -20,10 +20,10 @@ To define URLs in Django, you need to create a urls.py file within your app dire
 from django.urls import path
 from . import views
 
-'urlpatterns = [
+`urlpatterns = [
     path('home/', views.home_view, name='home'),
     path('about/', views.about_view, name='about'),
-]'
+]`
 
 In the example above, we import the necessary modules (path and views) and define a list called urlpatterns. Each URL pattern is defined using the path() function, which takes three parameters: the URL pattern as a string, the corresponding view or function, and an optional name for the URL pattern.
 
