@@ -2,10 +2,10 @@
 This guide provides an overview of URL routing in Django, a popular Python web framework. URL routing is a crucial aspect of building web applications as it determines how URLs are mapped to views or functions that handle user requests.
 
 ## Table of Contents
--Introduction
--Defining URLs
--URL Patterns
--Capturing URL Parameters
+* Introduction
+- Defining URLs
+- URL Patterns
+- Capturing URL Parameters
 -Including Other URL Configurations
 -Namespacing URL Patterns
 -Reverse URL Resolution
