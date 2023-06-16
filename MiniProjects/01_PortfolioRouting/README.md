@@ -2,14 +2,14 @@
 This guide provides an overview of URL routing in Django, a popular Python web framework. URL routing is a crucial aspect of building web applications as it determines how URLs are mapped to views or functions that handle user requests.
 
 ## Table of Contents
-* Introduction
+- Introduction
 - Defining URLs
 - URL Patterns
 - Capturing URL Parameters
--Including Other URL Configurations
--Namespacing URL Patterns
--Reverse URL Resolution
--Conclusion
+- Including Other URL Configurations
+- Namespacing URL Patterns
+- Reverse URL Resolution
+- Conclusion
 
 ## Introduction
 URL routing in Django involves mapping URLs to appropriate views or functions within the application. The process of URL routing is controlled by the urls.py file(s) within each Django app.
@@ -20,10 +20,10 @@ To define URLs in Django, you need to create a urls.py file within your app dire
 from django.urls import path
 from . import views
 
-urlpatterns = [
+'urlpatterns = [
     path('home/', views.home_view, name='home'),
     path('about/', views.about_view, name='about'),
-]
+]'
 
 In the example above, we import the necessary modules (path and views) and define a list called urlpatterns. Each URL pattern is defined using the path() function, which takes three parameters: the URL pattern as a string, the corresponding view or function, and an optional name for the URL pattern.
 
