@@ -58,6 +58,7 @@ The project utilizes the following technologies:
 
 ## Screenshots
 
+![Classifier](https://i.imgur.com/d5nNi1r.jpg)
 ![Classifier](https://i.imgur.com/eXPBSLl.png)
 ![Classifier](https://i.imgur.com/LM20S7B.png)
 
