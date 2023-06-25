@@ -27,6 +27,6 @@ By working on this project, you will gain experience and understanding in the fo
 - The Emails will be sent and all Logs will be displayed.
 
 
-![Secure PDF Uploader](https://i.imgur.com/T3yCnVZ.png)
-![Secure PDF Uploader](https://i.imgur.com/XCi3sar.png)
+![bulk mail](https://i.imgur.com/DHTEzUh.png)
+![bulk mail logs](https://i.imgur.com/HMFytXn.png)
 
