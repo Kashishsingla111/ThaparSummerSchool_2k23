@@ -2,6 +2,7 @@
 
 Django web application that allows users to enter Text , Source and Target Language and then translate the given content using google transalate API.
 
+- Language Codes:- https://developers.google.com/admin-sdk/directory/v1/languages
 ## Packages Used
 
 - Django: A high-level Python web framework for rapid development and clean, pragmatic design.
@@ -22,5 +23,5 @@ By working on this project, you will gain experience and understanding in the fo
 - View the translated content on results page.
 
 
-![Secure PDF Uploader](https://i.imgur.com/T3yCnVZ.png)
-![Secure PDF Uploader](https://i.imgur.com/XCi3sar.png)
+![google api form](https://i.imgur.com/vfFgVEF.png)
+![google api result](https://i.imgur.com/DfbYKIv.png)
