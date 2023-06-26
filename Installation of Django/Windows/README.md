@@ -196,7 +196,15 @@ d-----         9/4/2021   1:25 AM                test_project
 
 
 The directory test_project contains Django configuration files. The manage.py file comes in handy when starting a development server, and that’s what you will do in the next step.
-## Step 9 - Running the Development Server
+
+
+## Step 9 - Creating app
+Create your first app by running the command
+```bash 
+(venv)> python manage.py startapp <app name>
+```
+
+## Step 10 - Running the Development Server
 Now that the project has been created, we will start the Django development server.
 
 Start the development server using the manage.py runserver command:
