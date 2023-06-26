@@ -4,7 +4,7 @@
 
 ## Step2. Start Django project<br>
 ```bash
-  > django-admin startproject <project name>
+   django-admin startproject <project name>
 ```
 ## Step3. Start django app<br>
 inside the project folder
