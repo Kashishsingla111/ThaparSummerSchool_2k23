@@ -82,7 +82,11 @@ To create a virtual environment, type the following command and wait for a few s
 ```bash
 > python -m venv venv
 ```
+or
 
+```bash
+> virtualenv venv
+```
 The command will create a directory called venv inside your project directory.
 
 Next, confirm the venv directory has been created by listing the directory contents using the ls command:
@@ -131,7 +135,7 @@ The command will install the latest version of Django.
 If you want to install a different Django version, you can specify the version as follows:
 
 ```bash
-(venv)> pip install django==3.2.9
+(venv)> pip install django
 
 ```
 Once the installation finishes, you need to verify that Django has been installed. To do that, type the following command:
