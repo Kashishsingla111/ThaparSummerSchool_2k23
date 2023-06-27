@@ -85,14 +85,7 @@ in admin.py of app
   > admin.site.register(QUESTION)
 ```
 
-## Step9. Create SuperUser<br>
-
-```bash
-  > python manage.py createsuperuser
-```
-Login by going to the prebuilt django admin panel at '/admin'
-
-## Step10. Collect Static files and Migrate database<br>
+## Step9. Collect Static files and Migrate database<br>
 
 ```bash
   > python manage.py makemigrations
@@ -100,3 +93,21 @@ Login by going to the prebuilt django admin panel at '/admin'
   > 
   > python manage.py collectstatic
 ```
+
+## Step10. Create SuperUser<br>
+
+```bash
+  > python manage.py createsuperuser
+```
+
+![admin](https://github.com/harjasdt/ThaparSummerSchool_2k23/assets/68768529/aa3f1dc5-708b-402b-8470-ca051cae866a)
+
+
+Login by going to the prebuilt django admin panel at  http://127.0.0.1:8000/admin/
+
+
+![adm](https://github.com/harjasdt/ThaparSummerSchool_2k23/assets/68768529/360dd40c-9907-4245-8437-49ecd9d065cf)
+
+
+![ad2](https://github.com/harjasdt/ThaparSummerSchool_2k23/assets/68768529/80dd5b48-8c21-4dad-b0d2-a10d9c7048ce)
+
