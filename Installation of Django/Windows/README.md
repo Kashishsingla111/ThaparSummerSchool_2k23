@@ -135,7 +135,7 @@ The command will install the latest version of Django.
 If you want to install a different Django version, you can specify the version as follows:
 
 ```bash
-(venv)> pip install django
+(venv)> pip install django=4.2.1
 
 ```
 Once the installation finishes, you need to verify that Django has been installed. To do that, type the following command:
