@@ -1,8 +1,10 @@
 # Complete Directory Structure:
 
-![Screenshot 2023-06-27 093952](https://github.com/harjasdt/ThaparSummerSchool_2k23/assets/68768529/61924c44-c1d5-4b7f-8e45-c3e7de7f111c)
+![d](https://github.com/harjasdt/ThaparSummerSchool_2k23/assets/68768529/cb1c6bc3-9ab6-4adb-99bf-558dcd8be5db)
+
 
 # Part 1-
+
 In test_project  we have 2 folders namely test_app and test_project(main project folder) and manage.py file<br>
 
 
@@ -23,16 +25,17 @@ The setting.py is the most important file, and it is used for adding all the app
 
 
 ### 2.2. urls.py
-URL is a universal resource locator, it contains all the endpoints that we should have for our website. In simpler words, this file tells Django that if a user comes with this URL, direct them to that particular website or image whatsoever it is.
+URL is a universal resource locator, it contains all the endpoints that we should have for our website. In simpler words, this file tells Django that if a user comes with this URL, direct them to that particular website or image whatsoever it is. It redirects you to specific apps 
 
 
 # Part 3-
 ## In the  test_app folder:-
 
 
+![aa](https://github.com/harjasdt/ThaparSummerSchool_2k23/assets/68768529/b86d569f-f6a1-4bfd-8a0c-8a25cb0c5ed7)
+
 
 ### 3.1. models.py<br>
-![Screenshot 2023-06-27 094729](https://github.com/harjasdt/ThaparSummerSchool_2k23/assets/68768529/7a443a3c-6aa5-47c7-8763-25ce8a76191e)
 
 Models.py represents the models of web applications in the form of classes.
 Models define the structure of the database. It tells about the actual design, relationships between the data sets, and their attribute constraints. 
@@ -42,8 +45,11 @@ Models define the structure of the database. It tells about the actual design, r
 Admin.py file is used for registering the Django models into the Django administration.
 
 
-### 3.3. views.py<br>
-Views provide an interface through which a user interacts with a Django web application.
+### 3.3. urls.py
+In simpler words, this file tells Django that if a user comes with this URL, direct them to the respective view.
 
+
+### 3.4. views.py<br>
+Views provide an interface through which a user interacts with a Django web application with the help of classes or functions.
 
 Resources:- https://techvidvan.com/tutorials/django-project-structure-layout/
